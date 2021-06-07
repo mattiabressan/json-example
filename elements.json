@@ -1,0 +1,31 @@
+{
+"elements":[
+    {
+        "MCLid":1,
+        "cityId":23,
+        "skillDetails":{
+            "idSkillDetails":12,
+            "Name": "Gianni",
+            "SkillId":34
+        }
+    },
+    {
+        "MCLid":2,
+        "cityId":33,
+        "skillDetails":{
+            "idSkillDetails":11,
+            "Name": "Gerry",
+            "SkillId":43
+        }
+    },
+    {
+        "MCLid":3,
+        "cityId":53,
+        "skillDetails":{
+            "idSkillDetails":10,
+            "Name": "Geova",
+            "SkillId":45
+        }
+    }
+]
+}
